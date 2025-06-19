@@ -20,7 +20,7 @@ Portofolio ini dirancang untuk menunjukkan pemahaman saya terhadap sistem otomas
 ## 📆 Dokumentasi Mingguan
 ### ✅ Minggu 1 – Pengenalan SCADA & Offshore
 ### 📘 Minggu 1 – Pengenalan SCADA & Offshore
-📄 [Ringkasan Lengkap SCADA & Offshore (PDF)](docs/ringkasan-scada-lengkap.pdf)  
+📄 [Ringkasan SCADA & Offshore (PDF)](docs/ringkasan-scada-lengkap.pdf)  
 🖼️ [Skema Sistem SCADA Dasar](sketches/skema-scada-dasar.png)
 
 
@@ -63,4 +63,4 @@ Portofolio ini dibuat sebagai bentuk eksplorasi keahlian saya dalam menerapkan i
 ## 📫 Kontak
 
 - 💻 LinkedIn: (www.linkedin.com/in/fadlie-bani-adam-845125248)
-- 📧 Email: fadliebani9@gmail
+- 📧 Email: fadliebani9@gmail.com
