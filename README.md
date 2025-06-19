@@ -18,10 +18,11 @@ Portofolio ini dirancang untuk menunjukkan pemahaman saya terhadap sistem otomas
 ---
 
 ## 📆 Dokumentasi Mingguan
-
 ### ✅ Minggu 1 – Pengenalan SCADA & Offshore
-📄 [Ringkasan PDF: Pengantar SCADA](docs/pengantar-scada.pdf)  
+### 📘 Minggu 1 – Pengenalan SCADA & Offshore
+📄 [Ringkasan Lengkap SCADA & Offshore (PDF)](docs/ringkasan-scada-lengkap.pdf)  
 🖼️ [Skema Sistem SCADA Dasar](sketches/skema-scada-dasar.png)
+
 
 **Materi yang dipelajari:**
 - Apa itu SCADA, PLC, HMI, dan sensor industri
